@@ -8,3 +8,6 @@ These can be used to test the performance of the Pi or any Debian Linux system. 
 
 
 [@johnisanerd](https://github.com/johnisanerd/)
+
+[View the page here.](https://johnisanerd.github.io/PiPerformanceTest/)
+[This was made with GitHub Pages.](https://pages.github.com/)
