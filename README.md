@@ -10,7 +10,7 @@ You need the sysbench library and this can be installed with `sudo bash install.
 
 ## Running the Tests
 
-Run with `sudo bash install.sh`
+Run with `sudo bash test.sh`
 
 ## Pictures
 
